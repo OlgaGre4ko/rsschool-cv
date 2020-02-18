@@ -2,7 +2,7 @@
 Olga Grechko
 
 Contacts: 
-tel. +375297942912 e-mail: osgrechko@mail.ru
+tel. +375297942912 e-mail: osgrechko@mail.ru address: 220107 Minsk Partizanskiy ave. 30
 
 Summary:
 I want to be a frontend developer because I have a mathematical mindset, logical thinking and ability to lern fast.
