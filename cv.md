@@ -9,6 +9,7 @@ I want to be a frontend developer because I have a mathematical mindset, logical
 
 Skills:
 HTML / CSS
+MS Office (Word, Excel, PowerPoint, Outlook)
 
 Code examples:
 <!DOCTYPE html>
